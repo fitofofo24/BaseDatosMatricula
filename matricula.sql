@@ -184,7 +184,8 @@ INSERT INTO `tprofesor` (`idprofesor`, `nom_profesor`, `ape_profesor`, `tel_prof
 (6, 'renato', 'torres', 456254, 'mañanas'),
 (7, 'dolores', 'sarmiento', 452569, 'noches'),
 (8, 'teresa', 'fuentes', 964526865, 'tardes'),
-(9, 'carolina', 'cano', 859652565, 'tardes');
+(9, 'carolina', 'cano', 859652565, 'tardes'),
+(10, 'faustino', 'asprilla', 951753123, 'noches');
 
 --
 -- Índices para tablas volcadas
